@@ -1,0 +1,7 @@
+C:\Users\sshahid\source\TestProjects\GrandCircusPractice\GrandCircusPractice\bin\Debug\GrandCircusPractice.exe.config
+C:\Users\sshahid\source\TestProjects\GrandCircusPractice\GrandCircusPractice\bin\Debug\GrandCircusPractice.exe
+C:\Users\sshahid\source\TestProjects\GrandCircusPractice\GrandCircusPractice\bin\Debug\GrandCircusPractice.pdb
+C:\Users\sshahid\source\TestProjects\GrandCircusPractice\GrandCircusPractice\obj\Debug\GrandCircusPractice.csprojAssemblyReference.cache
+C:\Users\sshahid\source\TestProjects\GrandCircusPractice\GrandCircusPractice\obj\Debug\GrandCircusPractice.csproj.CoreCompileInputs.cache
+C:\Users\sshahid\source\TestProjects\GrandCircusPractice\GrandCircusPractice\obj\Debug\GrandCircusPractice.exe
+C:\Users\sshahid\source\TestProjects\GrandCircusPractice\GrandCircusPractice\obj\Debug\GrandCircusPractice.pdb
